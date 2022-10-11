@@ -1,8 +1,10 @@
+import './lib/util.js';
+import cheerio from 'assets://js/lib/cheerio.min.js';
+import 'assets://js/lib/crypto-js.js'
+// import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
 
-import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
-
-const key = 'drpy_zbk';
-eval(req('http://192.168.1.124:5705/libs/es6py.js').content);
+// const key = 'drpy_zbk';
+// eval(req('http://192.168.1.124:5705/libs/es6py.js').content);
 function init_test() {
     console.log("init_test_start");
     console.log(RKEY);
