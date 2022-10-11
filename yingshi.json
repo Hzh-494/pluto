@@ -602,42 +602,8 @@
    }
   },
   {
-   "name": "168",
-   "url": "http://168.qxzm.cc/user/owe.php?app=10000&account=hjdhnx&password=hjdhnx&url=",
-   "type": 1,
-   "ext": {
-    "flag": [
-     "qiyi",
-     "imgo",
-     "爱奇艺",
-     "奇艺",
-     "qq",
-     "腾讯",
-     "youku",
-     "优酷",
-     "pptv",
-     "PPTV",
-     "letv",
-     "乐视",
-     "leshi",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩",
-     "mgtv",
-     "芒果",
-     "sohu",
-     "xigua",
-     "fun",
-     "风行"
-    ],
-    "header": {
-     "User-Agent": "Mozilla/5.0"
-    }
-   }
-  },
-  {
    "name": "鸿途",
-   "url": "https://h5.freejson.xyz/player/analysis.php?v=",
+   "url": "http://43.139.29.179:5705/parse/api/鸿途.js?url=",
    "type": 1,
    "ext": {
     "flag": [
