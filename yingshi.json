@@ -105,7 +105,7 @@
    "key": "dr_蓝光影院",
    "name": "蓝光影院(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
