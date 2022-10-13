@@ -2,11 +2,7 @@
  "dr_count": 0,
  "mode": 2,
  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/ying.jar",
- "drives": [{
-            "name": "轻弹浅唱",
-            "server": "https://pan.jlbx.xyz",
-            "type": "alist"
-        }],
+ "drives": [],
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
   {
