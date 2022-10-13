@@ -1,5 +1,5 @@
 {
- "dr_count": 43,
+ 
  "mode": 2,
  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/ying.jar",
  "drives": [
@@ -102,14 +102,14 @@
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
   {
-   "key": "dr_ddys",
-   "name": "ddys(drpy)",
+   "key": "dr_凌云影视",
+   "name": "凌云影视(drpy)",
    "type": 3,
    "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/ddys.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/凌云影视.js"
   },
   {
    "key": "dr_蓝光影院",
