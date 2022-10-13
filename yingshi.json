@@ -7,7 +7,7 @@
  "sites": [
   {
    "key": "dr_凌云影视",
-   "name": "凌云影视(drpy)",
+   "name": "ddys(drpy)",
    "type": 3,
    "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
    "searchable": 1,
