@@ -6,14 +6,14 @@
  "sites": [
   
   {
-            "key": "py_bilibili",
-            "name": "py_bilibili(Pyramid)",
+            "key": "py_czspp",
+            "name": "py_czspp(Pyramid)",
             "type": 3,
             "api": "py_czspp",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/py_bilibili.py"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/py_czspp.py"
         },
   {
    "key": "dr_腾云驾雾",
