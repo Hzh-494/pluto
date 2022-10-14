@@ -5,16 +5,6 @@
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
   {
-            "key": "py_czspp",
-            "name": "py_czspp(Pyramid)",
-            "type": 3,
-            "api": "py_czspp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/py_czspp.py"
-  },
-  {
    "key": "dr_腾云驾雾",
    "name": "腾云驾雾(drpy)",
    "type": 3,
@@ -433,6 +423,16 @@
    "filterable": 1,
    "ext": "3865f0ab8f124688ad786a262af9b940",
    "jar": "http://43.139.29.179:5705/files/888.jar;md5;86A2E6D82742D949C4FDC0B981085655"
+  },
+  {
+   "key": "dr_短视频",
+   "name": "短视频",
+   "type": 3,
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/短视频.js"
   },
   {
    "key": "dr_玩偶姐姐",
