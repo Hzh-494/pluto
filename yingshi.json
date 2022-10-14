@@ -9,7 +9,7 @@
             "key": "py_bilibili",
             "name": "py_bilibili(Pyramid)",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy-ym.js",
+            "api": "py_czspp",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
