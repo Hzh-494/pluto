@@ -246,6 +246,16 @@
    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/AnFuns.js"
   },
   {
+   "key": "dr_AGE动漫",
+   "name": "AGE动漫(drpy)",
+   "type": 3,
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/AGE动漫.js"
+  },
+  {
    "key": "dr_喵喵",
    "name": "喵喵(drpy)",
    "type": 3,
@@ -274,6 +284,16 @@
    "quickSearch": 0,
    "filterable": 0,
    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/剧白白.js"
+  },
+  {
+   "key": "dr_麦豆",
+   "name": "麦豆(drpy)",
+   "type": 3,
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/麦豆.js"
   },
   {
    "key": "dr_瓜皮TV",
