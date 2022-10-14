@@ -5,16 +5,6 @@
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
   {
-   "key": "dr_秋霞",
-   "name": "秋霞(drpy)",
-   "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/秋霞.js"
-  },
-  {
    "key": "dr_素白白",
    "name": "素白白(drpy)",
    "type": 3,
@@ -23,6 +13,16 @@
    "quickSearch": 0,
    "filterable": 0,
    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/素白白.js"
+  },
+   {
+   "key": "dr_秋霞",
+   "name": "秋霞(drpy)",
+   "type": 3,
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/秋霞.js"
   },
   {
    "key": "dr_凌云影视",
