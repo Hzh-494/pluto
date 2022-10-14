@@ -4,6 +4,17 @@
  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/ying.jar",
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
+  
+  {
+            "key": "py_bilibili",
+            "name": "py_bilibili(Pyramid)",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy-ym.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/py_bilibili.py"
+        },
   {
    "key": "dr_腾云驾雾",
    "name": "腾云驾雾(drpy)",
