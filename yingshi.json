@@ -2493,7 +2493,7 @@
     {
      "name": "直播",
      "urls": [
-      "proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGNvZGUubmV0L3FxXzMyMzk0MzUxL2RyX3B5Ly0vcmF3L21hc3Rlci9iYXNlLyV1NzZGNCV1NjRBRC50eHQlMEE="
+      "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vSHpoLTQ5NC95aW5neWlua2V6aS9ibG9iL21haW4vJUU3JTlCJUI0JUU2JTkyJUFELnR4dA=="
      ]
     }
    ]
