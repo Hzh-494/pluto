@@ -1,4 +1,4 @@
-import './util-ym.js';
+import 'https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/lib/util-ym.js';
 import cheerio from 'assets://js/lib/cheerio.min.js';
 import 'assets://js/lib/crypto-js.js'
 // import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
