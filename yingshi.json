@@ -12,8 +12,7 @@
             "api": "py_czspp",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/py_czspp.py"
+            "filterable": 0
         },
   {
    "key": "dr_腾云驾雾",
