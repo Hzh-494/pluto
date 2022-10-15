@@ -28,31 +28,31 @@
    "key": "dr_奇珍异兽",
    "name": "奇珍异兽(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/奇珍异兽.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/奇珍异兽.js"
   },
    {
    "key": "dr_百忙无果",
    "name": "百忙无果(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/百忙无果.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/百忙无果.js"
   },
   {
    "key": "dr_真不卡",
    "name": "真不卡(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/真不卡.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/真不卡.js"
   },
   {
    "key": "t4",
@@ -67,334 +67,334 @@
    "key": "dr_素白白",
    "name": "素白白(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/素白白.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/素白白.js"
   },
    {
    "key": "dr_秋霞",
    "name": "秋霞(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/秋霞.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/秋霞.js"
   },
   {
    "key": "dr_凌云影视",
    "name": "凌云影视(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/凌云影视.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/凌云影视.js"
   },
   {
    "key": "dr_蓝光影院",
    "name": "蓝光影院(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/蓝光影院.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/蓝光影院.js"
   },
   {
    "key": "dr_兔小贝",
    "name": "兔小贝(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/兔小贝.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/兔小贝.js"
   },
   {
    "key": "dr_影视工厂",
    "name": "影视工厂(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/影视工厂.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/影视工厂.js"
   },
   
   {
    "key": "dr_大米星球",
    "name": "大米星球(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/大米星球.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/大米星球.js"
   },
   {
    "key": "dr_莫扎兔",
    "name": "莫扎兔(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/莫扎兔.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/莫扎兔.js"
   },
   {
    "key": "dr_干饭影视",
    "name": "干饭影视(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/干饭影视.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/干饭影视.js"
   },
   {
    "key": "dr_小强迷",
    "name": "小强迷(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/小强迷.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/小强迷.js"
   },
   
   {
    "key": "dr_万能影视",
    "name": "万能影视(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/万能影视.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/万能影视.js"
   },
   {
    "key": "dr_l0l",
    "name": "l0l(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/l0l.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/l0l.js"
   },
   {
    "key": "dr_追剧喵",
    "name": "追剧喵(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/追剧喵.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/追剧喵.js"
   },
   {
    "key": "dr_在线之家",
    "name": "在线之家(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/在线之家.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/在线之家.js"
   },
   {
    "key": "dr_菜狗",
    "name": "菜狗(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/菜狗.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/菜狗.js"
   },
   {
    "key": "dr_鸭奈飞",
    "name": "鸭奈飞(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/鸭奈飞.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/鸭奈飞.js"
   },
   {
    "key": "dr_360影视",
    "name": "360影视(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/360影视.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/360影视.js"
   },
   {
    "key": "dr_番茄影视",
    "name": "番茄影视(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/番茄影视.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/番茄影视.js"
   },
   {
    "key": "dr_AnFuns",
    "name": "AnFuns(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/AnFuns.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/AnFuns.js"
   },
   {
    "key": "dr_AGE动漫",
    "name": "AGE动漫(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/AGE动漫.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/AGE动漫.js"
   },
   {
    "key": "dr_喵喵",
    "name": "喵喵(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/喵喵.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/喵喵.js"
   },
   {
    "key": "dr_LIBVIO",
    "name": "LIBVIO(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/LIBVIO.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/LIBVIO.js"
   },
   {
    "key": "dr_剧白白",
    "name": "剧白白(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/剧白白.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/剧白白.js"
   },
   {
    "key": "dr_麦豆",
    "name": "麦豆(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/麦豆.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/麦豆.js"
   },
   {
    "key": "dr_瓜皮TV",
    "name": "瓜皮TV(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/瓜皮TV.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/瓜皮TV.js"
   },
   {
    "key": "dr_库马伊",
    "name": "库马伊(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/库马伊.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/库马伊.js"
   },
   {
    "key": "dr_007影视",
    "name": "007影视(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/007影视.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/007影视.js"
   },
   {
    "key": "dr_奇优影院",
    "name": "奇优影院(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/奇优影院.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/奇优影院.js"
   },
  
   {
    "key": "dr_牛马TV",
    "name": "牛马TV(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/牛马TV.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/牛马TV.js"
   },
   {
    "key": "dr_人人影视",
    "name": "人人影视(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/人人影视.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/人人影视.js"
   },
   {
    "key": "dr_玄天",
    "name": "玄天(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/玄天.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/玄天.js"
   },
   {
    "key": "dr_酷云77",
    "name": "酷云77(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/酷云77.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/酷云77.js"
   },
   {
    "key": "dr_1080P",
    "name": "1080P(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/1080P.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/1080P.js"
   },
   
   {
@@ -458,21 +458,21 @@
    "key": "dr_短视频",
    "name": "短视频",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/短视频.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/短视频.js"
   },
   {
    "key": "dr_玩偶姐姐",
    "name": "玩偶姐姐（翻）",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/玩偶姐姐.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/玩偶姐姐.js"
   },
   {
    "key": "push_agent",
