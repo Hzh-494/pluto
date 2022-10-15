@@ -46,7 +46,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 	cookies = ''
 	def getCookie(self):
-		cookies_str = "" # 填B站Cookies
+		cookies_str = "3493bbd974fc3b6ff8089a044f9defa1" # 填B站Cookies
 		cookies_dic = dict([co.strip().split('=') for co in cookies_str.split(';')])
 		rsp = session()
 		cookies_jar = utils.cookiejar_from_dict(cookies_dic)

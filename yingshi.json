@@ -397,26 +397,6 @@
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_czspp.py"
    },
    {
-    "key": "py_ali",
-    "name": "py_ali(Pyramid)",
-    "type": 3,
-    "api": "py_ali",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_ali.py"
-   },
-   {
-    "key": "py_alist",
-    "name": "py_alist(Pyramid)",
-    "type": 3,
-    "api": "py_alist",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_alist.py"
-   },
-   {
     "key": "py_bilibili",
     "name": "py_bilibili(Pyramid)",
     "type": 3,
@@ -456,7 +436,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_cctv.py"
    },
-   {
+   /*{
     "key": "py_cokemv",
     "name": "py_cokemv(Pyramid)",
     "type": 3,
@@ -466,6 +446,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_cokemv.py"
    },
+   */
    {
     "key": "py_douyu",
     "name": "py_douyu(Pyramid)",
@@ -476,7 +457,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_douyu.py"
    },
-   {
+   /*{
     "key": "py_genmov",
     "name": "py_genmov(Pyramid)",
     "type": 3,
@@ -486,6 +467,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_genmov.py"
    },
+   */
    {
     "key": "py_gimytv",
     "name": "py_gimytv(Pyramid)",
@@ -536,6 +518,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_kunyu77.py"
    },
+   /*
    {
     "key": "py_pansou",
     "name": "py_pansou(Pyramid)",
@@ -546,6 +529,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_pansou.py"
    },
+   */
    {
     "key": "py_voflix",
     "name": "py_voflix(Pyramid)",
@@ -556,7 +540,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_voflix.py"
    },
-   {
+   /*{
     "key": "py_xmaomi",
     "name": "py_xmaomi(Pyramid)",
     "type": 3,
@@ -566,6 +550,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_xmaomi.py"
    },
+   */
    {
     "key": "py_yiso",
     "name": "py_yiso(Pyramid)",
@@ -596,7 +581,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_zhaozy.py"
    },
-   {
+   /*{
     "key": "py_zxzj",
     "name": "py_zxzj(Pyramid)",
     "type": 3,
@@ -606,6 +591,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_zxzj.py"
    },
+   */
   {
    "key": "csp_xpath_dandanzan10",
    "name": "👍蛋蛋赞",
