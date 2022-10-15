@@ -436,17 +436,19 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_cctv.py"
    },
-   /*{
+   /*
+   {
     "key": "py_cokemv",
-    "name": "py_cokemv(Pyramid)",
-    "type": 3,
-    "api": "py_cokemv",
+   "name": "py_cokemv(Pyramid)",
+   "type": 3,
+   "api": "py_cokemv",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+   "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_cokemv.py"
    },
    */
+   
    {
     "key": "py_douyu",
     "name": "py_douyu(Pyramid)",
