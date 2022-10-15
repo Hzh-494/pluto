@@ -406,6 +406,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_bilibili.py"
    },
+   /*
    {
     "key": "py_bilimd",
     "name": "py_bilimd(Pyramid)",
@@ -416,6 +417,8 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_bilimd.py"
    },
+   */
+   /*
    {
     "key": "py_bilivd",
     "name": "py_bilivd(Pyramid)",
@@ -426,6 +429,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_bilivd.py"
    },
+   */
    {
     "key": "py_cctv",
     "name": "py_cctv(Pyramid)",
@@ -436,7 +440,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_cctv.py"
    },
-   
+
    /*
    {
     "key": "py_cokemv",
