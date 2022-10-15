@@ -1,7 +1,7 @@
 {
  "dr_count": 0,
  "mode": 2,
- "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/pluto.jar",
+ "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/pluto.jar",
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
   {
@@ -12,17 +12,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/py_czspp.py"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/py_czspp.py"
    },
   {
    "key": "dr_腾云驾雾",
    "name": "腾云驾雾(drpy)",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/drpy.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/yingyinkezi/main/腾云驾雾.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Hzh-494/pluto/main/腾云驾雾.js"
   },
   {
    "key": "dr_奇珍异兽",
